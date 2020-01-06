@@ -34,7 +34,6 @@ public class ParticleBunch extends ChargedParticle{
 		averagePosition = new PhysicsVector();
 		newPosition = new PhysicsVector();
 		randomSpread = new PhysicsVector();
-		calculatedSpread = new PhysicsVector();
 	}
 
 	/**
