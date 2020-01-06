@@ -5,3 +5,5 @@
 3) Average x and y positions of the beam are written to DataOut.txt so this can be imported into qtiplot etc.
 
 4) Was written in the atom text editor so indentation may be off in other editors 
+
+5) Have included some particle trajectory pdf's for visual demonstration
